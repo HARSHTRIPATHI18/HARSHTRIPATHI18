@@ -11,10 +11,10 @@ I believe in writing **clean, concise, and maintainable code**, following best p
 ## 🔧 Skills & Technologies  
 
 ### 💻 Core Expertise  
-- **Backend Development**: Java, Spring Boot  
+- **Backend Development**: Java, Spring Boot, Python
 - **Frontend Knowledge**: React, Tailwind CSS (for full-stack exposure)  
 - **Databases**: PostgreSQL, MySQL, MongoDB  
-- **Cloud Services**: AWS (EC2, Lambda, S3, RDS, CloudWatch, IAM)  
+- **Cloud Services**: AWS (EC2, Lambda, S3, RDS, CloudWatch, IAM)  and Terraform for automation 
 - **API Development**: RESTful APIs, Microservices Architecture  
 
 ### ⚙️ Development Practices  
