@@ -11,7 +11,6 @@ On the cloud side, I’ve worked extensively with AWS, deploying and managing ba
 I also bring solid experience at the data layer, working with PostgreSQL for robust relational data modeling and Redis for low-latency caching and fast data access. I care deeply about choosing the right data stores, optimizing query performance, and maintaining consistency and reliability across services.
 
 What motivates me most is building systems that scale gracefully, stay reliable in failure scenarios, and are easy for teams to evolve over time. I enjoy discussing system design, distributed systems, and cloud-native architectures, and I’m always open to exchanging ideas, collaborating on interesting projects, or exploring ways to build better systems together.
----
 
 ## 🔧 Skills & Technologies  
 
