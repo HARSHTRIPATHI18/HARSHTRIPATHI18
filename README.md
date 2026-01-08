@@ -2,10 +2,15 @@
 
 🚀 **Backend Developer | 2+ years of experience | Server-side Specialist**  
 
-I’m a passionate **Backend Developer** with over **2 years of professional experience**, primarily focused on building and managing **large-scale applications**. My expertise lies in designing and developing **server-side components**, ensuring **high performance, scalability, and reliability**.  
+I’m a backend engineer with 2.5 + Years of experience who is focused on building scalable, reliable, and event-driven systems end to end—from designing core services to deploying and operating them in production environments.
 
-I believe in writing **clean, concise, and maintainable code**, following best practices to create systems that are both **robust and easy to extend**.  
+I have hands-on experience designing backend applications with a strong emphasis on performance, fault tolerance, and clean architecture. My work often involves building event-driven workflows using Kafka, handling high-throughput data pipelines, and designing systems that remain stable and predictable under real-world load.
 
+On the cloud side, I’ve worked extensively with AWS, deploying and managing backend services with scalability, security, and operational efficiency in mind. I’m comfortable taking applications from local development to production-ready cloud deployments, understanding both application behavior and infrastructure concerns.
+
+I also bring solid experience at the data layer, working with PostgreSQL for robust relational data modeling and Redis for low-latency caching and fast data access. I care deeply about choosing the right data stores, optimizing query performance, and maintaining consistency and reliability across services.
+
+What motivates me most is building systems that scale gracefully, stay reliable in failure scenarios, and are easy for teams to evolve over time. I enjoy discussing system design, distributed systems, and cloud-native architectures, and I’m always open to exchanging ideas, collaborating on interesting projects, or exploring ways to build better systems together.
 ---
 
 ## 🔧 Skills & Technologies  
